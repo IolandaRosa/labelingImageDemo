@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555997606717",
+    "firebase_url": "https://ml-kit-project-cfb3b.firebaseio.com",
+    "project_id": "ml-kit-project-cfb3b",
+    "storage_bucket": "ml-kit-project-cfb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555997606717:android:52a022c1c2e644500f8b54",
+        "android_client_info": {
+          "package_name": "com.example.imagelabelingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555997606717-1l39oi3tn7quvid5n49kuest5m39o55a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagelabelingdemo",
+            "certificate_hash": "958d5607d0b013d247c0c7738c4d8e60ef4f18bf"
+          }
+        },
+        {
+          "client_id": "555997606717-0ciki1vf29vso3b98hcvhlo093ptp4bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3nVNuslre78hVO2x0zHeHZcs26exnEyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555997606717-0ciki1vf29vso3b98hcvhlo093ptp4bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
